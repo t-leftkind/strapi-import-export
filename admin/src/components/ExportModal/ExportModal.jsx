@@ -59,7 +59,7 @@ export const ExportModal = ({ availableExportFormats = [dataFormats.CSV, dataFor
           relationsAsId: options.relationsAsId,
           deepness: options.deepness,
           exportPluginsContentTypes: options.exportPluginsContentTypes,
-        }
+        },
       });
       setData(res.data);
     } catch (err) {
