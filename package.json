@@ -1,11 +1,15 @@
 {
   "name": "strapi-import-export",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Import export for strapi 5",
   "keywords": [],
   "license": "MIT",
-  "author": "Graeme Fulton <graeme@prototypr.io>",
+  "author": "Jim Fitzgerald <jfitzgeraldthethird@gmail.com>",
   "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/t-leftkind/strapi-import-export.git"
+  },
   "exports": {
     "./package.json": "./package.json",
     "./strapi-admin": {
