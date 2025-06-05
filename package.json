@@ -1,6 +1,6 @@
 {
-  "name": "strapi-import-export",
-  "version": "0.0.2",
+  "name": "@t-leftkind/strapi-import-export",
+  "version": "0.0.6",
   "description": "Import export for strapi 5",
   "keywords": [],
   "license": "MIT",
@@ -8,7 +8,7 @@
   "type": "commonjs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/t-leftkind/strapi-import-export.git"
+    "url": "git+https://github.com/t-leftkind/strapi-import-export.git"
   },
   "exports": {
     "./package.json": "./package.json",
