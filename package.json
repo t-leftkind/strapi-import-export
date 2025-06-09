@@ -4,7 +4,13 @@
   "description": "Import export for strapi 5",
   "keywords": [],
   "license": "MIT",
-  "author": "Jim Fitzgerald <jfitzgeraldthethird@gmail.com>",
+  "author": "Graeme Fulton <graeme@prototypr.io>",
+  "contributors": [
+    {
+      "name": "Jim Fitzgerald",
+      "url": "https://github.com/t-leftkind"
+    }
+  ],
   "type": "commonjs",
   "repository": {
     "type": "git",
